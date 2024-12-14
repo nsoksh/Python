@@ -22,3 +22,5 @@ random.randint(a, b)
 import random
 num = random.randint(1,6)
 print("サイコロの目は" + str(num) + "です。")
+
+aaa
