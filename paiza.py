@@ -25,3 +25,4 @@ print("サイコロの目は" + str(num) + "です。")
 
 aaa
 bbb
+ccc
