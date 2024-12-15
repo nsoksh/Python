@@ -23,6 +23,9 @@ import random
 num = random.randint(1,6)
 print("サイコロの目は" + str(num) + "です。")
 
-aaa
-bbb
-ccc
+#if文
+import random
+number = random.randint(1, 3)
+print("あなたの順位は" + str(number) + "位です")
+if number == 1:
+    print("おめでとう")
